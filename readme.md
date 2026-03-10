@@ -1,4 +1,4 @@
-# upTaskGraphQL
+# upTaskGraphQL (Backend)
 
 Aplicación de gestión de tareas construida con GraphQL, React y tecnologías modernas.
 
@@ -125,21 +125,25 @@ upTaskGraphQL/
 ## 🛠️ Tecnologías
 
 ### Frontend
+
 - **React** - Biblioteca UI
 - **Apollo Client** - Cliente GraphQL
 - **React Router** - Enrutamiento
 - **Styled Components/CSS** - Estilos
 
 ### Backend
+
 - **Node.js** - Runtime de JavaScript
 - **Express** - Framework web
 - **GraphQL** - Lenguaje de query
 - **Apollo Server** - Servidor GraphQL
 
 ### Base de Datos
+
 - **MongoDB** - Base de datos NoSQL
 
 ### Herramientas
+
 - **npm/yarn** - Gestor de paquetes
 - **Webpack** - Bundler
 - **Git** - Control de versiones
